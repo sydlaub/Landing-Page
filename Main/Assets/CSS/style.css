@@ -24,7 +24,7 @@ main {
 
 li {
     display: inline;
-    padding: auto;
+    padding: 10px;
     text-decoration: solid;
 }
 
